@@ -115,7 +115,7 @@ def run():
             print(f"\nTotal Inventory Value: {total:.2f}")
 
         elif choice == "0":
-            print("Goodbye!")
+            print("Exiting program...")
             break
 
         else:
